@@ -11,7 +11,7 @@ class Casio
             {
                 num1=0;
                 num2=0;
-                operation="nothing";
+                
                 System.out.println();
             
                 
@@ -22,7 +22,7 @@ class Casio
             {
                 num1=10;
                 num2=0;
-                operation="nothing";
+                
                 System.out.println(num1);
             
                 
@@ -32,7 +32,7 @@ class Casio
             {
                 num1=10;
                 num2=20;
-                operation="nothing";
+               
                 System.out.println(num1+''+num2);
             
                  
